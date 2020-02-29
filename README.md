@@ -5,8 +5,6 @@
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/radaelilucca/findevs">
   <a href="https://github.com/Rocketseat/semana-omnistack-10/commits/master">
-  
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/radaelilucca/findevs">
   </a>
 
 <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
