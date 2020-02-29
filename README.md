@@ -44,7 +44,8 @@ instaDev is a project that a clone the instagram feed app.
  </h3>
  <h3> 🖱️ Image to Web Project </br> </br>
   <p  align="center">
-<img src="https://github.com/agricio/FinDev/blob/master/assets/web.png?raw=true" width=80% />
+<img src="https://github.com/agricio/instaDev/blob/master/assets/web01.1.jpg?raw=true" width=80% />
+  <img src="https://github.com/agricio/instaDev/blob/master/assets/web03.png?raw=true" width=80% />
   </p>
  </h3>
 
