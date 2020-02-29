@@ -38,8 +38,8 @@ instaDev is a project that a clone the instagram feed app.
 
 <h3> 📱 Images of Project Mobile </br> </br>
   <p  align="center">
-  <img src="https://github.com/agricio/FinDev/blob/master/assets/android02.png?raw=true" width=30% />
-  <img src="https://github.com/agricio/FinDev/blob/master/assets/android03.png?raw=true" width=30% />
+  <img src="https://github.com/agricio/instaDev/blob/master/assets/mob01.png?raw=true" width=30% />
+  <img src="https://github.com/agricio/instaDev/blob/master/assets/mob02.png?raw=true" width=30% />
   </p>
  </h3>
  <h3> 🖱️ Image to Web Project </br> </br>
@@ -81,13 +81,6 @@ You need execulte the commands for install the project dependencies this is ness
 For testing, use an http request client, such as Insomnia or Postman, and a Mongo, local, or MongoDb Atlas database.
 </h5>
   
-<h4> Native-Mobile: </h4>
-
-````
-<mobile fonder>: react-native run-android
-````
-The native mobile needs the inception the googleMaps API KEY in the file to works. That can added in the file: FinDev\android\app\src\main\AndroidManifest.xml
-
 <h4> Mobile-expo: </h4>
 
 ````
@@ -101,8 +94,6 @@ For testing, use a physical device, or emulators like the XCode Simulator for iO
 ## 🏗️ Build the Mobile Aplication
   
 For build the aplication in APK or IPA, it is necessary fill correctly the file App.Json. Consult the instructions in <a href="https://docs.expo.io/versions/latest/distribution/building-standalone-apps/">Expo documentation </a> for more informations.
-
-In this step, it is extremely important to use a correct Google Api Key, otherwise the map will not work on Android devices.
 
 <h4> 🚩remember! re-name the file .env.example for .env, and fill the environment variables. </h4>
 </br>
