@@ -1,7 +1,6 @@
-<h1 align="center">
-  instaDev
- </h1>
- 
+<h1 align="center" >
+<img src="https://raw.githubusercontent.com/agricio/instaDev/master/assets/logo.png?raw=true" width=30%/>
+</h1>
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/radaelilucca/findevs">
   <a href="https://github.com/Rocketseat/semana-omnistack-10/commits/master">
